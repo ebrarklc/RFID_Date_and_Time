@@ -56,16 +56,6 @@ Arduino IDE üzerinden aşağıdaki kütüphaneleri yükleyin:
 
 2. Kartı yaklaştırdığınızda terminalde aşağıdaki gibi bir çıktı görürsünüz:
     ```
-    📡 Kart algılandı!
-    ⏰ Yazılacak tarih-saat: 1501251359
-    ✅ Yazma başarılı!
-    ```
-
-3. Kartın 1. bloğuna bu veri yazılmış olur.
-
----
-
-## 📜 Lisans
-
-MIT Lisansı ile lisanslanmıştır.
+    ⏰ 1501251359
+   
 
